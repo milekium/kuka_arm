@@ -1,0 +1,8 @@
+prefix=/home/robond/kuka_arm/install
+
+Name: rll_planning_project
+Description: Description of rll_planning_project
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime rll_msgs

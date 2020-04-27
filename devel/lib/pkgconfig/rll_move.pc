@@ -1,0 +1,8 @@
+prefix=/home/robond/kuka_arm/devel
+
+Name: rll_move
+Description: Description of rll_move
+Version: 0.0.1
+Cflags: -I/home/robond/kuka_arm/src/rll_sdk/rll_move/include
+Libs: -L${prefix}/lib -lrll_move
+Requires: message_runtime rll_msgs
