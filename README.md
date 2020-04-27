@@ -1,6 +1,7 @@
 # kuka_arm
+Kuka path planning project as Robotics Nanodegree Program Challenge with Kuka and KIT.
 
-# Run the code
+## Run the code
 Follow this steps for a successful run:
 Update/upgrade the system
 ```
