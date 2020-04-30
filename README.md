@@ -1,9 +1,15 @@
 # kuka_arm
+<<<<<<< HEAD
 Kuka arm code for the kuka challenge.
 ![](images/kuka_arm.jpg)
 
 
 ## Installation
+=======
+Kuka path planning project as Robotics Nanodegree Program Challenge with Kuka and KIT.
+
+## Run the code
+>>>>>>> bbd61dc4d753ff9d7bf9e1fa6ed51cf87dddcd28
 Follow this steps for a successful run:
 Update/upgrade the system
 ```
