@@ -1,6 +1,9 @@
 # kuka_arm
+Kuka arm code for the kuka challenge.
+![](images/kuka_arm.jpg)
 
-# Run the code
+
+## Installation
 Follow this steps for a successful run:
 Update/upgrade the system
 ```
@@ -19,6 +22,8 @@ cd /kuka_arm/
 catkin_make
 source devel/setup.bash
 ```
+
+## Usage: 
 Launch all the project nodes
 - We’ve combined all the launch files in a `start_project.sh` script. 
 - Note: This script will only run if you are in the visual desktop, don't try to run it inside the workspace terminal!
@@ -26,4 +31,12 @@ Launch all the project nodes
 cd kuka_arm/src/rll_planning_project/scripts/
 ./start_project.sh
 ```
-You'll need to repeat these steps after each reboot!
+
+## Credits: 
+author: milekium
+
+## License: 
+Same license used by Ros.
+### GNU LGPL v3
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)  
+
