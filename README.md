@@ -1,15 +1,12 @@
 # kuka_arm
-<<<<<<< HEAD
 Kuka arm code for the kuka challenge.
 ![](images/kuka_arm.jpg)
 
 
 ## Installation
-=======
 Kuka path planning project as Robotics Nanodegree Program Challenge with Kuka and KIT.
 
 ## Run the code
->>>>>>> bbd61dc4d753ff9d7bf9e1fa6ed51cf87dddcd28
 Follow this steps for a successful run:
 Update/upgrade the system
 ```
@@ -39,10 +36,10 @@ cd kuka_arm/src/rll_planning_project/scripts/
 ```
 
 ## Credits: 
-author: milekium
+author: milekium.
+[kuka](https://www.kuka.com/en-de).
 
 ## License: 
-Same license used by Ros.
 ### GNU LGPL v3
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)  
 
